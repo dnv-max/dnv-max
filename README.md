@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dnv
 - 👀 I’m interested in thinking why something is working ;-; ( learning basically) 
-- 🌱 I’m currently learning fundamentals of ports ( linux) 
+- 🌱 I’m currently learning basic thingies 
 - 💞️ I'll LOVE to collaborate with <a href="https://github.com/Jaykali">@JayKali</a> ♥️
 - 📫 you can reach to my dm me at my <a href="https://www.instagram.com/kindacatch/"> instagram </a> 
 - you can join my <a href="https://discord.gg/a5fVanmzdQ">Discord Server</a>
